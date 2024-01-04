@@ -1,0 +1,10 @@
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe.config
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.AssemblyReference.cache
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Form1.resources
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Properties.Resources.resources
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.GenerateResource.cache
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.CoreCompileInputs.cache
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.exe
+D:\C#NivelBasico\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.pdb
